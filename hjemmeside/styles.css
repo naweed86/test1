@@ -1,0 +1,51 @@
+body {
+  background-color: black;
+
+
+}
+
+
+h1 {
+  color: Green;
+  text-align: center;
+  font-size: 80px;
+  text-shadow: white;
+  height: auto;
+
+}
+
+h2 {
+  color: white;
+  text-align-last: center;
+  font-size: 50px;
+  height: auto;
+}
+
+h3 {
+  color: white;
+text-align: center;
+height: auto;
+}
+
+h5 {
+  color: white;
+text-align: center;
+height: auto;
+}
+
+a {
+  color: green;
+  font-weight: bolder;
+  height: auto;
+
+}
+
+img {border-radius: 50%;
+  max-width: 50%;
+  height: auto;
+  align-items: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
